@@ -13,7 +13,7 @@
 
 
 <h3><a href="">Throwing Boomerang</a></h3>
-  <p>I am playing too much Star Wars Battlefront II recently and I really liked the Darth Maul's throwing saber skill. So I made a replica of it in Unity3D</p>
+  <p>I have written a similar sword-throwing mechanic to the one I saw in a game.</p>
 
 
 
