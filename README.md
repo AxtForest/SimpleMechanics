@@ -12,7 +12,7 @@
 
 
 
-<h3><a href="">Throwing Boomerang</a></h3>
+<h3><a href="https://github.com/AxtForest/SimpleMechanics/tree/main/Throwing%20Boomerang">Throwing Boomerang</a></h3>
   <p>I have written a similar sword-throwing mechanic to the one I saw in a game.</p>
 
 
@@ -23,4 +23,4 @@
 
 
 
-<h3><a href="">Spawner</a></h3>
+<h3><a href="https://github.com/AxtForest/SimpleMechanics/tree/main/SpawnerMech">Spawner</a></h3>
