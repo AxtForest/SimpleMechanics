@@ -25,6 +25,7 @@
 
 <h3><a href="https://github.com/AxtForest/SimpleMechanics/tree/main/SpawnerMech">Spawner</a></h3>
 
+<p>A simple spawner mechanism for use in Unity. A spawner is used to create game objects at specific intervals or under certain conditions. It enables game developers to create dynamic game environments. For more detailed information and usage, please refer to the repository.</p>
 
 
 ![SpawnerMech](https://github.com/AxtForest/SimpleMechanics/assets/82883471/505ed3c9-1eb3-4fe3-8903-59d55962fd13)
