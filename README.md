@@ -29,3 +29,12 @@
 
 
 ![SpawnerMech](https://github.com/AxtForest/SimpleMechanics/assets/82883471/505ed3c9-1eb3-4fe3-8903-59d55962fd13)
+
+
+<h3><a href="https://github.com/AxtForest/SimpleMechanics/tree/main/PortalMech/Portal">PortalMechanic</a></h3>
+
+
+<p>This portal mechanic in Unity ensures that the portal does not open unless the user collects an activation card. Once the activation card is collected, the user can approach the door and press the "E" key to open the door and activate the portal.</p>
+
+
+
