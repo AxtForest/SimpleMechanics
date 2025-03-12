@@ -48,13 +48,9 @@
 
 
 
-
-
-
-
-
 <h3><a href="https://github.com/AxtForest/SimpleMechanics/tree/main/Basic%20Time%20Rewind%20Mechanic">Time Rewind</a></h3>
 
+<p>This is a simple time rewind mechanic in Unity. When the player holds down the 'Enter' key, their movement is continuously reversed. The rewind stops as soon as the 'Enter' key is released. It supports Rigidbody-based movement and ensures physics consistency during rewinding.</p>
 
 
 ![TimeRewindMechanic-ezgif com-resize](https://github.com/user-attachments/assets/47bbdd54-00af-4c7a-84fa-aa39517fa2c8)
