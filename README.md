@@ -54,3 +54,21 @@
 
 
 ![TimeRewindMechanic-ezgif com-resize](https://github.com/user-attachments/assets/47bbdd54-00af-4c7a-84fa-aa39517fa2c8)
+
+
+
+
+
+
+
+
+<h3><a href="https://github.com/AxtForest/SimpleMechanics/tree/main/ThirdPersonMove">Third Person Movement</a></h3>
+
+
+<p>Simple third-person movement system implemented in Unity. Includes basic character control using input axes, with smooth rotation towards movement direction. Perfect for prototyping or learning purposes.</p>
+
+
+
+
+
+
