@@ -68,6 +68,9 @@
 <p>Simple third-person movement system implemented in Unity. Includes basic character control using input axes, with smooth rotation towards movement direction. Perfect for prototyping or learning purposes.</p>
 
 
+![ThirdPersonMove-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a42115f6-f7e1-4e65-b8f6-2e1fff0cdd17)
+
+
 
 
 
